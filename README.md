@@ -1,5 +1,5 @@
 # Data ScienceProjects
-Practicing prjects for Data Science related to the visualization. Start from the begginer level.
+Practicing prjects <!--for Data Science related to the visualization. Start from the begginer level.-->
 
 |step|Projects|Link|
 |-|-|-|
